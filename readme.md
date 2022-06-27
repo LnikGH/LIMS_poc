@@ -6,3 +6,17 @@ muutoksista.
 
 # Huom! 
 Tämä ohjelma on tehty omaksi iloksi demomielessä, eikä sitä ole tarkoitettu käytettäväksi tuotantoympäristössä tai oikeiden näytteiden kanssa!
+
+# Kuvia
+
+Graafinen käyttöjärjestelmä, muistuttaa Windows 95:n grafiikoita
+
+![LIMS GUI](/lims_pic1.png)
+
+Näytteen- ja tulostensyöttö
+
+![LIMS add result](/lims_add_result_pic.png)
+
+Ohjelma pitää kirjaa muutoksista
+
+![LIMS logging](/lims_log.png)
