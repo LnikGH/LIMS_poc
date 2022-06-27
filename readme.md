@@ -17,6 +17,6 @@ Näytteen- ja tulostensyöttö
 
 ![LIMS add result](/lims_add_result_pic.png)
 
-Ohjelma pitää kirjaa muutoksista
+Ohjelma pitää kirjaa muutoksista (ohjelma tulostaa virheellisesti useasti lokikirjan nimen, joten bugeja riittää vielä korjattavaksi)
 
 ![LIMS logging](/lims_log.png)
