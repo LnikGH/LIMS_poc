@@ -1,6 +1,6 @@
-# Demo näytehallintaohjelmasta
+# Demo näytteenhallintaohjelmasta
 
-Aina ei ole järkevää syöttää jokaista T&K-osaston tuomaan näytettä viralliseen näytteenhallintajärjestelmään, sillä se voi viedä helposti tunteja työaikaa. 
+Aina ei ole järkevää syöttää jokaista T&K-osaston tuomaa näytettä viralliseen näytteenhallintajärjestelmään, sillä se voi viedä helposti tunteja työaikaa. 
 Tämän yksinkertaisen Python-ohjelman avulla voi hallita näytteitä ja niiden tuloksia nopeasti ja helposti. Ohjelma pitää myös lokikirjaa tulosten ja näytteiden
 muutoksista. 
 
@@ -9,7 +9,7 @@ Tämä ohjelma on tehty omaksi iloksi demomielessä, eikä sitä ole tarkoitettu
 
 # Kuvia
 
-Graafinen käyttöjärjestelmä, muistuttaa Windows 95:n grafiikoita
+Graafinen käyttöjärjestelmä, joka muistuttaa Windows 95:n grafiikoita
 
 ![LIMS GUI](/lims_pic1.png)
 
